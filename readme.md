@@ -1,16 +1,3 @@
-<div align=center>
-<img src="https://github.com/lllyasviel/Fooocus/assets/19834515/483fb86d-c9a2-4c20-997c-46dafc124f25">
-
-**Non-cherry-picked** random batch by just typing two words "forest elf", 
-
-without any parameter tweaking, without any strange prompt tags. 
-
-See also **non-cherry-picked** generalization and diversity tests [here](https://github.com/lllyasviel/Fooocus/discussions/2067) and [here](https://github.com/lllyasviel/Fooocus/discussions/808) and [here](https://github.com/lllyasviel/Fooocus/discussions/679) and [here](https://github.com/lllyasviel/Fooocus/discussions/679#realistic).
-
-In the entire open source community, only Fooocus can achieve this level of **non-cherry-picked** quality.
-
-</div>
-
 
 # Fooocus
 
@@ -28,7 +15,18 @@ Fooocus has simplified the installation. Between pressing "download" and generat
 
 `[1]` David Holz, 2019.
 
-**Recently many fake websites exist on Google when you search “fooocus”. Do not trust those – here is the only official source of Fooocus.**
+<div align=center>
+<img src="https://github.com/lllyasviel/Fooocus/assets/19834515/483fb86d-c9a2-4c20-997c-46dafc124f25">
+
+**Non-cherry-picked** random batch by just typing two words "forest elf", 
+
+without any parameter tweaking, without any strange prompt tags. 
+
+See also **non-cherry-picked** generalization and diversity tests [here](https://github.com/lllyasviel/Fooocus/discussions/2067) and [here](https://github.com/lllyasviel/Fooocus/discussions/808) and [here](https://github.com/lllyasviel/Fooocus/discussions/679) and [here](https://github.com/lllyasviel/Fooocus/discussions/679#realistic).
+
+In the entire open source community, only Fooocus can achieve this level of **non-cherry-picked** quality.
+
+</div>
 
 ## [Installing Fooocus](#download)
 
@@ -139,7 +137,7 @@ Thanks to [camenduru](https://github.com/camenduru) for the template!
 
 If you want to use Anaconda/Miniconda, you can
 
-    git clone https://github.com/lllyasviel/Fooocus.git
+    git clone https://github.com/js3600/Fooocus.git
     cd Fooocus
     conda env create -f environment.yaml
     conda activate fooocus
