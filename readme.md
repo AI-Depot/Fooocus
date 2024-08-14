@@ -452,6 +452,24 @@ See also [About Forking and Promotion of Forks](https://github.com/lllyasviel/Fo
 
 Special thanks to [twri](https://github.com/twri) and [3Diva](https://github.com/3Diva) and [Marc K3nt3L](https://github.com/K3nt3L) for creating additional SDXL styles available in Fooocus. Thanks [daswer123](https://github.com/daswer123) for contributing the Canvas Zoom!
 
+## Support Our Project with Crypto Donations!
+
+If our project has been helpful to you, consider showing your support by making a cryptocurrency donation. Your contributions help us maintain and improve the project, ensuring it stays up-to-date and full of awesome features. Every donation, big or small, makes a difference! 🌟
+Accepted Cryptocurrencies:
+
+    Bitcoin (BTC) 🟧: bc1qvd0zhuqa838qrnjqa09rzrd4a8zhax5em7c7de
+    Ethereum (ETH) 🔷: 0x3fCf4590E89C4f07eD99B805Af357A9aCd2f2096
+    Litecoin (LTC) 🌕: ltc1q9vy3jdp7fw34v95fdruan8d7z08dpvz4t502gw
+    Monero (XMR) 🛡️: 46NdPhKiVVxGjhUpBoGZJXcZcsXr7F8ARQKpbyRexAFc5Cy4hKtCnX8SYfsXmVU8xzJCSvaZbSsgWHoWQ7CL2F43B43v1Nw
+
+## Why Donate?
+
+    Development Costs: Help us keep the team running and the code flowing.
+    Caffeine Boost: Keep the team fueled with coffee during those marathon coding sessions!
+    Show Your Love❤️: Let us know that you appreciate the time and effort put into this project.
+
+Thank you for your generosity and support!
+
 ## Update Log
 
 The log is [here](update_log.md).
